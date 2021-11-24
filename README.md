@@ -6,4 +6,4 @@
 
 ## How to run it
 * `mvn install`
-* `java -jar ./target/best.plan-0.0.1-SNAPSHOT.jar ./src/test/resources/example1.txt email,voice,admin`
+* `java -jar target/target/best.plan-0.0.1-SNAPSHOT.jar ./src/test/resources/example1.txt email,voice,admin`
